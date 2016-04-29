@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Admin\Desktop\DESKTOP\M\Programming\NativeScript\crossCommunicator\platforms\android\libs\nativescript.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="72b585c3baffa7cb9fbecc8dd37cd89a127f17f5">
+        <dex dex="C:\Users\Admin\Desktop\DESKTOP\M\Programming\NativeScript\crossCommunicator\platforms\android\build\intermediates\pre-dexed\debug\nativescript_118e73a343a17c72c596f63398b1d3545aca9f86.jar" />
+    </item>
+    <item
+        jar="C:\android_sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\Admin\Desktop\DESKTOP\M\Programming\NativeScript\crossCommunicator\platforms\android\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_6bd2e40beb1971b16b39f0f4e4ee963f8e260bff.jar" />
+    </item>
+
+</items>
